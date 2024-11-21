@@ -8,3 +8,5 @@ Features
 Automated Categorization: Headlines will be classified into relevant categories such as politics, sports, technology, entertainment, etc.
 Personalized Recommendations: Enable the system to recommend articles based on categorized news content.
 Scalable Solution: The model should handle the growing volume of news articles efficiently.
+
+Uses stacked RNN arch too
